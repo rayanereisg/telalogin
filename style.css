@@ -1,0 +1,41 @@
+
+h2 {
+    font-size: 48px;
+    color: #ffe5ff;
+    text-align: center;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d79bd5;
+    padding: 20px;
+    font-style: italic;
+}
+
+form {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #700f70;
+    background-color: #d79bd5;
+    border: 1px solid #ffe5ff;
+    border-radius: 10px;
+}
+
+.input-container {
+    position: relative;
+    margin-bottom: 15px;
+}
+
+.input-label {
+    position: absolute;
+    top: 0;
+    left: 10px;
+}
+p{
+    text-align: center;
+}
+a{
+    color: #700f70;
+    font-style: italic;
+    text-decoration: wavy;
+}
